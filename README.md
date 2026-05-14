@@ -1,4 +1,4 @@
-# Privacy Policy & License — Image Simple Viewer
+# Privacy Policy & Terms — Image Simple Viewer
 
 **Effective date:** 14 May 2026
 **App:** Image Simple Viewer (Microsoft Store)
@@ -147,35 +147,18 @@ Please do not include any sensitive personal information in a public issue. If y
 
 ---
 
-## License (MIT)
+## Terms of use
 
-The source code of Image Simple Viewer is published under the MIT License:
+Image Simple Viewer is **proprietary software**. The source code is **not publicly distributed**; only the compiled application on the Microsoft Store is provided.
 
-```
-MIT License
+You are granted a non-exclusive, non-transferable, revocable right to install and use the app for personal or business purposes, subject to the *"As-is" disclaimer and limitation of liability* above and to the Microsoft Store standard application licence terms (which Microsoft displays to you at install time).
 
-Copyright (c) 2021 Rodrigo G. de Queiroz
+You may **not**:
+- decompile, reverse-engineer, disassemble, or otherwise attempt to derive the source code, except to the extent expressly permitted by applicable mandatory law;
+- redistribute, sublicense, rent, lease, or resell the app;
+- remove or alter any copyright, trademark, or other proprietary notices.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-The MIT License above applies to the **source code** of the app. The **as-is disclaimer** under *"As-is" disclaimer and limitation of liability* above applies to your use of the Store-distributed app.
+All rights not expressly granted to you are reserved by the publisher.
 
 ---
 
