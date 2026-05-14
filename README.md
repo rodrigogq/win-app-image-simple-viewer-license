@@ -139,9 +139,9 @@ Nothing in this policy limits or removes any rights you have under mandatory loc
 
 ## Contact
 
-The simplest way to reach me about this policy or about anything related to the app is to open a **public GitHub issue** in the app's repository:
+The simplest way to reach me about this policy or about anything related to the app is to open a **public GitHub issue** in this policy repository:
 
-- https://github.com/rodrigogq/uwp-image-simple-viewer/issues
+- https://github.com/rodrigogq/win-app-image-simple-viewer-license/issues
 
 Please do not include any sensitive personal information in a public issue. If you need a private channel for a data-protection request, mention that in the issue and I will reply with a way to continue privately.
 
